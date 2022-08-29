@@ -1,0 +1,2 @@
+The application breaks down 
+after trying to open camera
